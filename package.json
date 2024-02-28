@@ -1,0 +1,11 @@
+{
+  "name": "bun",
+  "author": "dayblox",
+  "description": "Bun starter",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
